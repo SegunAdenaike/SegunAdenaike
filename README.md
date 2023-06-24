@@ -1,5 +1,10 @@
 # Welcome!
 
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://imgur.com/a/Lp1bJvW">
+ <source media="(prefers-color-scheme: light)" srcset="https://imgur.com/a/Lp1bJvW">
+</picture>
+
 ![Profile Picture](https://imgur.com/a/Lp1bJvW)
 
 ## About Me
