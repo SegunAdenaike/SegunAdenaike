@@ -1,5 +1,6 @@
 # Welcome!
-![pxfuel](https://github.com/SegunAdenaike/SegunAdenaike/assets/96291623/a38a7b47-19bf-4ac3-bb0c-6256d01671f2)
+![pxfuel (1)](https://github.com/SegunAdenaike/SegunAdenaike/assets/96291623/0983f90b-7470-426f-a636-277dcb552ff8)
+
 
 
 ## About Me
